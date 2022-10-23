@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "c92af16b91b4da9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cce554c23673c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2402fc4ef2d048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "فهرست.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac00754301d89231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "فهرست.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1d635cf770665a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f24e9921b882e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d679aab56548c72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d029310ae9af7121",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42928b176bea8704",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "304101510cbbd5ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ca7ed946160ccff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a6e31ecaef756ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "فهرست.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32fe2174fab1b093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "فهرست.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4312f0017d62b182",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "749619da95920d53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "فهرست.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ac00754301d89231",
+  "lastOpenFiles": [
+    "فصل اول.md",
+    "فهرست.md"
+  ]
+}
